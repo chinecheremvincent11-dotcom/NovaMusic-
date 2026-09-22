@@ -1,0 +1,2 @@
+rootProject.name = "NovaMusic"
+include(":app")
